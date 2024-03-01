@@ -41,3 +41,7 @@ pickle-email-*.html
 .idea/.generators
 
 .idea/.generators
+
+pages/package-lock.json
+pages/package.json
+pages/node_modules/*
